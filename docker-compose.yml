@@ -4,4 +4,4 @@ services:
   express:
     image: tzoght/cnt-docker-express
     ports:
-      - "3000:3000"
+      - "8989:8989"
