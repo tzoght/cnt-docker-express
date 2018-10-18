@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  express:
+    image: tzoght/cnt-docker-express
+    ports:
+      - "3000:3000"
